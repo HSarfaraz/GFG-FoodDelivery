@@ -49,3 +49,11 @@ note: go to root folder first
 ##### Confirmation of backend deployment
 
 ![Alt text](./images/varsel-step2.png)
+
+change the url to --> gfg-food-delivery.vercel.app
+
+![Alt text](./images/varsel-step3-select-2-projects.png)
+
+Note: deploy 2 projects, 1st backend then frontend
+
+Check the deployment status: https://gfg-food-delivery-c7gf.vercel.app/
