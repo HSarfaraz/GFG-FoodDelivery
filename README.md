@@ -2,7 +2,7 @@
 
 Dec 2024:
 
-# Mongodb credentials:
+## Mongodb Credentials:
 
 login id: messagesarfarazhussain@yahoo.com
 
@@ -12,7 +12,7 @@ password: XOKfSqRHcAZ3S7eO
 
 steps: create the db --> connect to drivers --> save the connection string
 
-# connection string:
+## Connection String:
 
 mongodb+srv://messagesarfarazhussain:XOKfSqRHcAZ3S7eO@gfg-mern.hlb4k.mongodb.net/?retryWrites=true&w=majority&appName=GFG-MERN
 
@@ -25,6 +25,27 @@ for cloning: https://github.com/HSarfaraz/GFG-FoodDelivery.github
 
 GFG-FoodDelivery
 
-# Database setup population:
+## Database Setup:
 
 insert document --> upload the dishes.json inside {}
+
+## Git Steps:
+
+note: go to root folder first
+
+1. git status
+2. git add .
+3. git commit -m "initial setup"
+4. git push
+
+## Versal Setup Steps:
+
+1. go to https://vercel.com/ after login
+2. add new --> continue with github
+3. search the repo --> import (Grant the access if needed for repo) --> select 'backend' --> continue
+
+![Alt text](./images/varsel-step.png)
+
+##### Confirmation of backend deployment
+
+![Alt text](./images/varsel-step2.png)
